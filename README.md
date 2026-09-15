@@ -60,6 +60,21 @@ made in Godot 4 this is a open world City game is alpha test version now
 * if you running into some bugs or has some good ideas please create issues and thank for you improve the game :)
 
 ### How to play?
+* singleplayer
+  * go into the game 
+  * get some burger or egg and sale to get money
+  * go to big store buy a hoe for planting
+  * go to mashuai farm get grass , 60% get one seed and you can put it in to phough wait it grow up to wheat
+  * get wheat and sale for more money
+  * drive car
+    * you can drive car in this town and freedom.
+  * freedom
+    * you can do not do these too .
+* multiplayer (LAN)
+  * play with others in same WIFI.
+  * can't plant wheat
+  * can't drive car
+  * more like alpha 0.4.100 to alpha 0.4.200 not lastest version
 
 ### developer
 jiasas888b(model,script),gvm-SM2（prisma3d model maker）
