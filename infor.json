@@ -2,11 +2,12 @@
 "name":"MaShuai City",
 "start_dev":"2025.3.28",
 "developer_count":2,
+"developer":{jiasas888,gvw-sm2}
 "Studio":"Balang Studio",
 "MSphone_OS_version":1.1,
 "Android_min_sdk":28,
 "min_Android_ver":9,
 "target_sdk":36,
 "target_Android_ver":16,
-"protocol_version":18
+"protocol_version":20
 }
