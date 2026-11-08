@@ -8,7 +8,7 @@ assignees: ''
 
 ## 描述/describe
 
-## 报告者/reporter（本人无需填写If you are yourself, you don't need to fill it out.）
+## 报告者/reporter（本人无需填写If you are the reporter, you don't need to fill it out.）
 
 ## 重现步骤/septs of recreate
 
