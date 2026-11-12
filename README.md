@@ -85,6 +85,9 @@ Gitee:https://gitee.com/jiasas/mashuai-city/
 
 web Edition(itch): https://jiasas888.itch.io/mashuai-farm-2-web
 
+discord:
+https://discord.gg/tuyftKXxMa
+
 ### Game images
 
 ![Game image](https://github.com/jiasas888b/MaShuai-Farm-City/blob/alpha-version/images%2FScreenshot_2026-03-09-21-33-39-326_com.MSS.MSF2.jpg?raw=true)
