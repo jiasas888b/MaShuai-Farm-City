@@ -1,6 +1,6 @@
 ## 平台发布历史
 ### 2026.11.14
-*游戏发布至Microsoft store
+* 游戏发布至Microsoft store
 ### 2026.11.10
 * 游戏发布至RuStore
 ### 2026.9.5
